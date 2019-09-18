@@ -1,0 +1,704 @@
+{
+  "epic": [
+    {
+      "name": "Heart Stone",
+      "type": "Item",
+      "bonus": "+1 HP",
+      "description": "Add 1 HEART to your max",
+      "id": 1
+    },
+    {
+      "name": "Fighter’s Girdle",
+      "type": "Armor",
+      "bonus": "+1 Armor",
+      "description": "When DYING",
+      "id": 2
+    },
+    {
+      "name": "King’s Coins",
+      "type": "Gain 3 HERO COINS that can be given to OTHER PLAYERS for heroic deeds",
+      "bonus": "",
+      "description": "",
+      "id": 3
+    },
+    {
+      "name": "Chain Energy Gem",
+      "type": "Item",
+      "bonus": "Attach to a weapon",
+      "description": "Make that weapon Magical",
+      "id": 4
+    },
+    {
+      "name": "Gemini Jewel",
+      "type": "Item",
+      "bonus": "Attune to any INT SPELL",
+      "description": "That spell now casts twice when used",
+      "id": 5
+    },
+    {
+      "name": "Salamander Wristlet",
+      "type": "Item",
+      "bonus": "Regenerate 1 HP each round",
+      "description": "unless DYING",
+      "id": 6
+    },
+    {
+      "name": "Frost Bracers",
+      "type": "Armor",
+      "bonus": "+3 Armor",
+      "description": "Become immune to any damage done or ill effects of cold",
+      "id": 7
+    },
+    {
+      "name": "Acid Whetstone",
+      "type": "Item",
+      "bonus": "Sharpen a bladed weapon",
+      "description": "Successful attacks with that weapon destroy 1 enemy gear",
+      "id": 8
+    },
+    {
+      "name": "Helmet of Udin",
+      "type": "Armor",
+      "bonus": "+4 Armor",
+      "description": "+3 CHA",
+      "id": 9
+    },
+    {
+      "name": "Ring of Invisibility",
+      "type": "Item",
+      "bonus": "Make a WIS check to activate",
+      "description": "remain invisible for 1D4 ROUNDS",
+      "id": 10
+    },
+    {
+      "name": "Crown of Goblins",
+      "type": "Item",
+      "bonus": "Command all Goblins with absolute authority",
+      "description": "even if they hate you",
+      "id": 11
+    },
+    {
+      "name": "Illusory Self",
+      "type": "INT SPELL",
+      "bonus": "Conjure a very realistic mirror-clone of yourself",
+      "description": "",
+      "id": 12
+    },
+    {
+      "name": "Dimension Jump",
+      "type": "INT SPELL",
+      "bonus": "Warp to any location you can see or can accurately remember",
+      "description": "",
+      "id": 13
+    },
+    {
+      "name": "Antlers of the Storm",
+      "type": "Armor",
+      "bonus": "+3 Armor",
+      "description": "With a WIS check you can command the weather when outdoors",
+      "id": 14
+    },
+    {
+      "name": "Hand of Resurrection",
+      "type": "Item",
+      "bonus": "Raise 1 dead creature back to full HP",
+      "description": "roll 1D4",
+      "id": 15
+    },
+    {
+      "name": "Dire Bear",
+      "type": "WIS POWER",
+      "bonus": "Become a colossal bear for 1D4 ROUNDS",
+      "description": "Add 1 HEART",
+      "id": 16
+    },
+    {
+      "name": "Iron Skin",
+      "type": "WIS POWER",
+      "bonus": "Your ARMOR is 20 for 1D4 ROUNDS",
+      "description": "",
+      "id": 17
+    },
+    {
+      "name": "Hoppy Gar",
+      "type": "Food",
+      "bonus": "Heal to Full HP",
+      "description": "All checks are EASY for 1D4 ROUNDS",
+      "id": 18
+    },
+    {
+      "name": "Dwarven Bomb",
+      "type": "Weapon",
+      "bonus": "Fuse burns for 1D4 ROUNDS",
+      "description": "Explodes doing 4D12 to anything NEAR",
+      "id": 19
+    },
+    {
+      "name": "Hood of Fear",
+      "type": "Armor",
+      "bonus": "+3 Armor",
+      "description": "Any enemies who can see you make a WIS check or flee on their turn",
+      "id": 20
+    },
+    {
+      "name": "Diamond Tiara",
+      "type": "Item",
+      "bonus": "A crown worth more than a small city",
+      "description": "",
+      "id": 21
+    },
+    {
+      "name": "Ivory Rose",
+      "type": "Item",
+      "bonus": "Bestow this on one person",
+      "description": "that person will guard you with their life",
+      "id": 22
+    },
+    {
+      "name": "Tooth of the Agnar",
+      "type": "Item",
+      "bonus": "Attach to 1 Weapon",
+      "description": "That weapon does ULTIMATE Effort on any roll of 15+",
+      "id": 23
+    },
+    {
+      "name": "Magma Coil",
+      "type": "Item",
+      "bonus": "Give off a belch of smoke and fire to make any STR check EASY or STR EFFORT Ultimate",
+      "description": "",
+      "id": 24
+    },
+    {
+      "name": "Frog Boots",
+      "type": "Armor",
+      "bonus": "+2 Armor",
+      "description": "When moving FAR",
+      "id": 25
+    },
+    {
+      "name": "Heroic Tabard",
+      "type": "Item",
+      "bonus": "Whenever you cry “Huzzah!” those who answer “Huzzah!” roll EASY on their next turn",
+      "description": "",
+      "id": 26
+    },
+    {
+      "name": "Song of the Mountain",
+      "type": "INT SPELL",
+      "bonus": "Sing! All enemies within FAR range are -5 CHA to resist persuasion",
+      "description": "",
+      "id": 27
+    },
+    {
+      "name": "Harpoon Gun",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "Attack to grapple a foe with a +5 STR if they try to escape",
+      "id": 28
+    },
+    {
+      "name": "Bow of Seeking",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "If you know a target’s name",
+      "id": 29
+    },
+    {
+      "name": "Pet Slime Cube",
+      "type": "Item",
+      "bonus": "This tiny Slime Cube has imprinted on you as parent",
+      "description": "3” on a side",
+      "id": 30
+    },
+    {
+      "name": "Pet Goblin",
+      "type": "Item",
+      "bonus": "This hapless",
+      "description": "gearless runt has sworn never to leave your side",
+      "id": 31
+    },
+    {
+      "name": "Fire Blade",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "+3 Attempts/Effort",
+      "id": 32
+    },
+    {
+      "name": "Wave of Fury",
+      "type": "WIS POWER",
+      "bonus": "If NEAR the ocean",
+      "description": "call forth a massive wave",
+      "id": 33
+    },
+    {
+      "name": "Gravity Inversion",
+      "type": "INT SPELL",
+      "bonus": "Invert gravity within FAR range for 1D4 ROUNDS",
+      "description": "",
+      "id": 34
+    },
+    {
+      "name": "Brain Horror Helm",
+      "type": "Armor",
+      "bonus": "+3 Armor",
+      "description": "Gain the ‘It shows you things’ property of a Brain Horror",
+      "id": 35
+    },
+    {
+      "name": "Gunner’s Tripod",
+      "type": "Item",
+      "bonus": "Gain +5 Attempts/Effort when firing at targets beyond FAR range with a Weapon",
+      "description": "",
+      "id": 36
+    },
+    {
+      "name": "Watcher",
+      "type": "Item",
+      "bonus": "A small glass eye",
+      "description": "place anywhere and see through it within 1 mile",
+      "id": 37
+    },
+    {
+      "name": "Dobbs’ Cheddar",
+      "type": "Food",
+      "bonus": "3 Count",
+      "description": "Add to any FOOD to double that FOOD’s effects",
+      "id": 38
+    },
+    {
+      "name": "Yalfonso’s Disc",
+      "type": "Item",
+      "bonus": "A frictionless",
+      "description": "levitating disc of energy that holds up to 200 pounds",
+      "id": 39
+    },
+    {
+      "name": "Ramthas Battle Harness",
+      "type": "Armor",
+      "bonus": "+1 Armor",
+      "description": "Gain 3 more slots in EQUIPPED gear",
+      "id": 40
+    },
+    {
+      "name": "Ronaldo’s Backwagon",
+      "type": "Item",
+      "bonus": "Gain 10 more slots in CARRIED gear",
+      "description": "",
+      "id": 41
+    },
+    {
+      "name": "Call of Aram",
+      "type": "Item",
+      "bonus": "A mighty war horn",
+      "description": "Sound a call that can be heard for 5 miles",
+      "id": 42
+    },
+    {
+      "name": "Genetic Soup",
+      "type": "Food",
+      "bonus": "changes the eater into a random new BIO-FORM instantly",
+      "description": "",
+      "id": 43
+    },
+    {
+      "name": "Runic Rope",
+      "type": "Item",
+      "bonus": "ANY roll using this rope is EASY",
+      "description": "50’",
+      "id": 44
+    },
+    {
+      "name": "Thoor’s Stone",
+      "type": "Item",
+      "bonus": "Only the looter of this object is able to lift or move it",
+      "description": "a baseball-sized cube",
+      "id": 45
+    },
+    {
+      "name": "Gnomish Beam Goggles",
+      "type": "Armor",
+      "bonus": "+2 Armor",
+      "description": "Fires a ray of ULTIMATE Weapon damage",
+      "id": 46
+    },
+    {
+      "name": "Feral Claws",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "+3 Attempts",
+      "id": 47
+    },
+    {
+      "name": "Belt of Guzzling",
+      "type": "Armor",
+      "bonus": "+4 Armor",
+      "description": "Never fail another CON check",
+      "id": 48
+    },
+    {
+      "name": "Book of Infinity",
+      "type": "Item",
+      "bonus": "You have perfect recall of every fact or detail you have ever encountered",
+      "description": "",
+      "id": 49
+    },
+    {
+      "name": "Amulet of Thunder",
+      "type": "Item",
+      "bonus": "When rolling ULTIMATE",
+      "description": "re-roll anything less than a 6",
+      "id": 50
+    },
+    {
+      "name": "Lemninkainen’s Wondrous Sack",
+      "type": "Item",
+      "bonus": "Increase your CARRIED gear slots to 20",
+      "description": "",
+      "id": 51
+    },
+    {
+      "name": "Akintu",
+      "type": "Item",
+      "bonus": "An odd tiki statue that brings good luck",
+      "description": "When you roll a 19",
+      "id": 52
+    },
+    {
+      "name": "Enchanted Sandwich",
+      "type": "Food",
+      "bonus": "Never ages or spoils",
+      "description": "5 bites",
+      "id": 53
+    },
+    {
+      "name": "Cloud Buffalo",
+      "type": "A steed that descends from the sky on command",
+      "bonus": "carries 8 people and 10 LOOT",
+      "description": "",
+      "id": 54
+    },
+    {
+      "name": "Red Fang",
+      "type": "Weapon",
+      "bonus": "Magical Great Sword",
+      "description": "Any damage you do with Red Fang",
+      "id": 55
+    },
+    {
+      "name": "Crystal Darts",
+      "type": "Weapon/Ammo",
+      "bonus": "3 Count",
+      "description": "Magical",
+      "id": 56
+    },
+    {
+      "name": "Earth’s Heart",
+      "type": "Item",
+      "bonus": "A massive ruby",
+      "description": "the biggest",
+      "id": 57
+    },
+    {
+      "name": "Gnomish Metal Melter",
+      "type": "Item",
+      "bonus": "1D4 ROUNDS to reach full power",
+      "description": "then vaporizes ANY NEAR metal objects",
+      "id": 58
+    },
+    {
+      "name": "Ghost Trap",
+      "type": "Item",
+      "bonus": "Holds up to 5 non-corporeal beings",
+      "description": "simply place",
+      "id": 59
+    },
+    {
+      "name": "Adamantium Armor",
+      "type": "Armor",
+      "bonus": "+8 Armor",
+      "description": "Ignore any Damage below 3",
+      "id": 60
+    },
+    {
+      "name": "Clockwork Arm",
+      "type": "Item",
+      "bonus": "Prosthetic",
+      "description": "+3 STR",
+      "id": 61
+    },
+    {
+      "name": "Juice of Sapho",
+      "type": "Food",
+      "bonus": "+8 INT",
+      "description": "Triple the EFFORT of your next SPELL",
+      "id": 62
+    },
+    {
+      "name": "Styll Suit",
+      "type": "Armor",
+      "bonus": "+4 Armor",
+      "description": "Wear no other ARMOR",
+      "id": 63
+    },
+    {
+      "name": "Bracelet of Thoor",
+      "type": "Item",
+      "bonus": "+2 STR",
+      "description": "",
+      "id": 64
+    },
+    {
+      "name": "Ring of Quickness",
+      "type": "Item",
+      "bonus": "+2 DEX",
+      "description": "",
+      "id": 65
+    },
+    {
+      "name": "Drunken Hauberk",
+      "type": "Armor",
+      "bonus": "+2 Armor",
+      "description": "+2 CON",
+      "id": 66
+    },
+    {
+      "name": "Sage’s Crystal",
+      "type": "Item",
+      "bonus": "+2 INT",
+      "description": "",
+      "id": 67
+    },
+    {
+      "name": "Effigy of Osric",
+      "type": "Item",
+      "bonus": "+2 WIS",
+      "description": "",
+      "id": 68
+    },
+    {
+      "name": "Gleaming Gorget",
+      "type": "Armor",
+      "bonus": "+1 armor",
+      "description": "+2 CHA",
+      "id": 69
+    },
+    {
+      "name": "Dagger of the Unseen",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "If attack undetected",
+      "id": 70
+    },
+    {
+      "name": "Headsman’s Shovel",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "On a 20",
+      "id": 71
+    },
+    {
+      "name": "The Hidden",
+      "type": "INT SPELL",
+      "bonus": "Allies NEAR are invisible for 1D4 ROUNDS",
+      "description": "They become visible if they move away",
+      "id": 72
+    },
+    {
+      "name": "Slayer’s Helm",
+      "type": "Armor",
+      "bonus": "+2 Armor",
+      "description": "+6 Weapon Effort",
+      "id": 73
+    },
+    {
+      "name": "Eye of Azatoth",
+      "type": "Item",
+      "bonus": "Amulet",
+      "description": "+6 Magical Effort",
+      "id": 74
+    },
+    {
+      "name": "Boon of the Gods",
+      "type": "Item",
+      "bonus": "Grant one OTHER PLAYER a class Milestone Reward of their choice",
+      "description": "one use",
+      "id": 75
+    },
+    {
+      "name": "Timecap Mushroom",
+      "type": "FOOD",
+      "bonus": "SKIP the next DM’s turn",
+      "description": "",
+      "id": 76
+    },
+    {
+      "name": "Roll Twice on the ANCIENT LOOT table",
+      "type": "",
+      "bonus": "",
+      "description": "",
+      "id": 77
+    },
+    {
+      "name": "Shrink Ray",
+      "type": "INT SPELL",
+      "bonus": "Reduce one target to 1/100th its size for 1D4 ROUNDS",
+      "description": "",
+      "id": 78
+    },
+    {
+      "name": "Giant Growth",
+      "type": "WIS POWER",
+      "bonus": "Grow one target to 5x its size for 1D4 ROUNDS",
+      "description": "",
+      "id": 79
+    },
+    {
+      "name": "Osric’s Bulwark Wall",
+      "type": "WIS POWER",
+      "bonus": "Form a massive castle wall from boulders or cobbles",
+      "description": "",
+      "id": 80
+    },
+    {
+      "name": "Destroy the Dead",
+      "type": "INT SPELL",
+      "bonus": "Annihilate 1 Undead per 1 HP burned",
+      "description": "FAR range",
+      "id": 81
+    },
+    {
+      "name": "Ghost Ship",
+      "type": "Item",
+      "bonus": "Conjure a black galleon",
+      "description": "no crew",
+      "id": 82
+    },
+    {
+      "name": "Dragon’s Blood",
+      "type": "Food",
+      "bonus": "Grow wings and breathe fire for 1D4 ROUNDS",
+      "description": "",
+      "id": 83
+    },
+    {
+      "name": "Gungnir",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "Spear",
+      "id": 84
+    },
+    {
+      "name": "Cosmic Gateway",
+      "type": "Item",
+      "bonus": "Open a door",
+      "description": "access ANY world in the cosmos",
+      "id": 85
+    },
+    {
+      "name": "Invulnerability",
+      "type": "WIS POWER",
+      "bonus": "Anoint one target with touch",
+      "description": "they cannot be harmed for 1D8 ROUNDS",
+      "id": 86
+    },
+    {
+      "name": "Sherherezazahd",
+      "type": "Item",
+      "bonus": "A ghostly sword that fights at your side",
+      "description": "add Magical Weapon effort to all attacks",
+      "id": 87
+    },
+    {
+      "name": "Time Doorway",
+      "type": "Item",
+      "bonus": "Access ANY time at current location",
+      "description": "age 10 years to go through",
+      "id": 88
+    },
+    {
+      "name": "Stench Gar",
+      "type": "Food",
+      "bonus": "Release a poisonous belch",
+      "description": "Reduce one NEAR creature to 1 HEART",
+      "id": 89
+    },
+    {
+      "name": "Lifewalker",
+      "type": "Item",
+      "bonus": "Leave a trail of flowers and growth wherever you go",
+      "description": "those within heal 2 HP per round",
+      "id": 90
+    },
+    {
+      "name": "Hammer of Hell",
+      "type": "Weapon",
+      "bonus": "Magical",
+      "description": "All EFFORT done with this weapon affects all NEAR enemies",
+      "id": 91
+    },
+    {
+      "name": "Wings of Gabriel",
+      "type": "Armor",
+      "bonus": "+5 Armor",
+      "description": "Foldable",
+      "id": 92
+    },
+    {
+      "name": "Wishing Well",
+      "type": "Item",
+      "bonus": "Immovable once used",
+      "description": "Make 1 WISH per YEAR",
+      "id": 93
+    },
+    {
+      "name": "Book of Mastery",
+      "type": "Item",
+      "bonus": "3 pages",
+      "description": "each decoded with an INT roll",
+      "id": 94
+    },
+    {
+      "name": "Star of Unadai",
+      "type": "Food",
+      "bonus": "Gain +1 to all STATS",
+      "description": "",
+      "id": 95
+    },
+    {
+      "name": "Vision of Perfection",
+      "type": "Trap",
+      "bonus": "Reveal to one EVIL being",
+      "description": "unless it makes a HARD CHA check",
+      "id": 96
+    },
+    {
+      "name": "Water of Life",
+      "type": "Food",
+      "bonus": "Die",
+      "description": "Return to life 1D4 ROUNDS later with 2 additional HEARTS",
+      "id": 97
+    },
+    {
+      "name": "Mead of Udin",
+      "type": "Food",
+      "bonus": "All who drink awake the next day with an additional HEART",
+      "description": "",
+      "id": 98
+    },
+    {
+      "name": "Shield of Angels",
+      "type": "Armor",
+      "bonus": "+6 Armor",
+      "description": "You and all NEAR allies ignore any damage of 5 or less",
+      "id": 99
+    },
+    {
+      "name": "Necronomicon",
+      "type": "Item",
+      "bonus": "Create 1 INT SPELL or WIS POWER with a HARD INT check",
+      "description": "learn or teach it instantly",
+      "id": 100
+    }
+  ]
+}
